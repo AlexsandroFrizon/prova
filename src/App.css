@@ -1,0 +1,19 @@
+*{margin:0; padding:0; box-sizing: border-box;} 
+
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+.card {
+  background-color:coral;
+  border-radius: 100px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+  background: coral;
+  padding: 20px;
+}
